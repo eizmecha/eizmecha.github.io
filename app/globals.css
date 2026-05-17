@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* تفعيل الوضع الداكن ليتوافق مع مكتبة next-themes */
+@custom-variant dark (&:where(.dark, .dark *));
