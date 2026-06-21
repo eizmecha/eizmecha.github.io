@@ -19,7 +19,7 @@ export default function Home() {
     en: {
       name: "Ezz El-Din Al-Muliki",
       role: "Mechatronics Engineer",
-      honors: "Class of April 2026 • Honors (90.27%)",
+      honors: "Class of June 2026 • Honors (90.27%)",
       title: "Mechatronics Engineer | AI & Industrial Automation | PLC, SCADA & Deep Learning | Robotic Systems",
       summaryTitle: "Professional Summary",
       summaryDesc: "High-achieving Mechatronics Engineer with a multidisciplinary background in robotics, AI, and industrial automation. Proven Team Lead for complex engineering projects, demonstrating strong capabilities in coordinating technical workflows and system integration. Gained practical industrial exposure through a residency at YCIC (HSA Group), focusing on automated production lines.",
@@ -27,7 +27,7 @@ export default function Home() {
       contact: "Establish Connection",
       
       stats: [
-        { icon: <Award />, value: "90.27%", label: "GPA Excellent with Honor" },
+        { icon: <Award />, value: "90.27%", label: "CGPA Excellent with Honor" },
         { icon: <Activity />, value: "90%", label: "VTOL Vibration Reduction" },
         { icon: <Cpu />, value: "1%", label: "PID Steady-State Error" },
         { icon: <Network />, value: "98%", label: "Edge-RAG Inference Accuracy" },
@@ -54,7 +54,7 @@ export default function Home() {
           desc: "Analyzed high-speed automated FMCG production lines, Siemens S7-300 PLCs, and studied electromechanical integration in large-scale manufacturing.",
         },
         {
-          year: "Oct 2021 - Apr 2026",
+          year: "Oct 2021 - Jun 2026",
           title: "B.Sc. in Mechatronics Engineering",
           org: "Sana'a University",
           desc: "Graduated with Excellent grade and Honors Degree. Medium of instruction: English.",
@@ -145,7 +145,12 @@ export default function Home() {
 
       certsTitle: "Professional Certifications",
       certs: [
+        { title: "Career Essentials In Project Management Professional Certificate", issuer: "Microsoft & LinkedIn", date: "May 2026" },
+        { title: "Machine Learning With Python Professional Certificate", issuer: "Anaconda", date: "May 2026" },
+        { title: "Machine Learning Statistical Foundations Professional Certificate", issuer: "Wolfram Research", date: "May 2026" },
         { title: "Microsoft Azure AI Essentials Professional Certificate", issuer: "Microsoft & LinkedIn", date: "May 2026" },
+        { title: "Programming With Python Professional Certificate", issuer: "OpenEDG Python Institute", date: "May 2026" },
+        { title: "C++ Programming Professional Certificate", issuer: "OpenEDG C++ Institute", date: "May 2026" },
         { title: "Learn SCADA: Collect, Analyze, and Visualize Data", issuer: "LinkedIn Learning", date: "May 2026" },
         { title: "Become a PLC Developer (Learning Path)", issuer: "LinkedIn Learning", date: "April 2026" }
       ],
@@ -154,7 +159,7 @@ export default function Home() {
     ar: {
       name: "عزالدين المليكي",
       role: "مهندس ميكاترونكس",
-      honors: "دفعة أبريل 2026 • مرتبة الشرف (90.27%)",
+      honors: "دفعة يونيو 2026 • مرتبة الشرف (90.27%)",
       title: "مهندس ميكاترونكس | الذكاء الاصطناعي والأتمتة الصناعية | أنظمة PLC و SCADA والتعلم العميق | أنظمة الروبوتات",
       summaryTitle: "الملخص المهني",
       summaryDesc: "مهندس ميكاترونكس متميز ذو خلفية متعددة التخصصات في الروبوتات، الذكاء الاصطناعي، والأتمتة الصناعية. قائد فريق مثبت الكفاءة للمشاريع الهندسية المعقدة مع قدرة عالية على تنسيق سير العمل التقني وتكامل الأنظمة. اكتسبت خبرة صناعية عملية مكثفة من خلال التدريب في الشركة اليمنية للصناعة والتجارة (مجموعة هائل سعيد أنعم)، مع التركيز على خطوط الإنتاج المؤتمتة.",
@@ -189,7 +194,7 @@ export default function Home() {
           desc: "تحليل خطوط الإنتاج السريعة (FMCG) ومتحكمات Siemens S7-300، ودراسة بروتوكولات السلامة والصحة المهنية وتكامل الحساسات والمشغلات الميكانيكية الكبيرة.",
         },
         {
-          year: "أكتوبر 2021 - أبريل 2026",
+          year: "أكتوبر 2021 - يونيو 2026",
           title: "بكالوريوس هندسة الميكاترونكس",
           org: "جامعة صنعاء",
           desc: "التخرج بتقدير ممتاز مع مرتبة الشرف الأولى. لغة الدراسة الأساسية: اللغة الإنجليزية.",
@@ -280,9 +285,14 @@ export default function Home() {
 
       certsTitle: "الشهادات والاعتمادات المهنية",
       certs: [
-        { title: "Microsoft Azure AI Essentials Professional Certificate", issuer: "Microsoft & LinkedIn", date: "مايو 2026" },
-        { title: "Learn SCADA: Collect, Analyze, and Visualize Data", issuer: "LinkedIn Learning", date: "مايو 2026" },
-        { title: "Become a PLC Developer (Learning Path)", issuer: "LinkedIn Learning", date: "أبريل 2026" }
+        { title: "Career Essentials In Project Management Professional Certificate", issuer: "Microsoft & LinkedIn", date: "May 2026" },
+        { title: "Machine Learning With Python Professional Certificate", issuer: "Anaconda", date: "May 2026" },
+        { title: "Machine Learning Statistical Foundations Professional Certificate", issuer: "Wolfram Research", date: "May 2026" },
+        { title: "Microsoft Azure AI Essentials Professional Certificate", issuer: "Microsoft & LinkedIn", date: "May 2026" },
+        { title: "Programming With Python Professional Certificate", issuer: "OpenEDG Python Institute", date: "May 2026" },
+        { title: "C++ Programming Professional Certificate", issuer: "OpenEDG C++ Institute", date: "May 2026" },
+        { title: "Learn SCADA: Collect, Analyze, and Visualize Data", issuer: "LinkedIn Learning", date: "May 2026" },
+        { title: "Become a PLC Developer (Learning Path)", issuer: "LinkedIn Learning", date: "April 2026" }
       ],
       rights: "جميع الحقوق محفوظة.",
     },
